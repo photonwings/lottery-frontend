@@ -103,7 +103,7 @@ const LotteryEntrance = () => {
             {isLoading || isFetching ? (
               <div className="animate-spin spinner-border h-8 w-8 border-b-2 bg-blue rounded-full"></div>
             ) : (
-              'Enter Raffle'
+              'Enter Lottery'
             )}
           </div>
         </div>
